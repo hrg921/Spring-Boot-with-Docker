@@ -1,0 +1,1 @@
+./gradlew jibDockerBuild --image=springio/gs-spring-boot-docker
